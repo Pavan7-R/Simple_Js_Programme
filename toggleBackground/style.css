@@ -1,0 +1,18 @@
+body{
+  background: linear-gradient(to right, #00b09b, #96c93d);
+}
+#button{
+  justify-content: center;
+  align-items: center; 
+  top: 50%;
+  left: 50%;
+  transform: translate(50%, 50%);
+padding: 20px;
+  background: coral;
+  color: white;
+  background: linear-gradient(to right, #f093fb, #f5576c);
+
+}
+
+
+
